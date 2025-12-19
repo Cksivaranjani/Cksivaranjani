@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=180&section=header&text=Sivaranjani%20C%20K&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 # 👋 Hi there! I'm **Sivaranjani C K**
 ### 🚀 Backend • Frontend • Cloud • Security • AI Enthusiast
@@ -137,7 +139,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cksivaranjani&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cksivaranjani&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Cksivaranjani&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -157,5 +159,13 @@
 <div align="center">
 
 ✨ *Building secure, scalable systems — one API at a time.* ✨
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/Cksivaranjani/blob/output/github-contribution-grid-snake.svg)
 
 </div>
