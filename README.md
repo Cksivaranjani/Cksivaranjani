@@ -1,10 +1,9 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi+there!+I'm+Sivaranjani+C+K" />
-
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi there! I'm <b>Sivaranjani C K</b>
+</h1>
 
 ### 🚀 Backend • Frontend • Cloud • Security • AI Enthusiast
 
