@@ -1,7 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=180&section=header&text=Sivaranjani%20C%20K&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=180&section=header&animation=fadeIn" />
 
+# 👋 Hi there! I'm **Sivaranjani C K**
 ### 🚀 Backend • Frontend • Cloud • Security • AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Cloud+Enthusiast;FastAPI+%7C+AWS+%7C+OAuth+2.0;Secure+and+Scalable+Systems;AI+%7C+Cyber+Security+Learner" />
