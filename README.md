@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## 🌟 About Me
 
 🎓 **B.E. Computer Science & Engineering (2021–2025)**  
@@ -18,15 +16,11 @@
 💡 Passionate about building **secure, scalable backend systems**, cloud-native architectures, and AI-powered solutions.  
 🔐 Strong focus on **authentication, authorization, and cloud security**.
 
----
-
 ## 🚀 Current Status Quo : 📡
 
 - 🔭 Working on **FastAPI-based backend & AWS serverless applications**
 - 🌱 Learning **advanced OAuth 2.0, AWS architecture, and system design**
 - 🎯 Career interests: **Backend | Cloud | Cyber Security | AI**
-
----
 
 ## 🧠 Tech Stack
 
@@ -34,14 +28,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=java&logoColor=white)
 
----
-
 ### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
----
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
@@ -51,20 +41,14 @@
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
 ![SES](https://img.shields.io/badge/AWS_SES-232F3E?style=for-the-badge)
 
----
-
 ### 🔐 Security & Authentication
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
 ![RBAC](https://img.shields.io/badge/RBAC-6A5ACD?style=for-the-badge)
 ![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge)
 
----
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
 
 ### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -73,8 +57,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
 
 ### 🧰 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -86,8 +68,6 @@
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
 
----
-
 ## 🚀 Featured Projects
 
 ### 🟣 Skillfullsense — *Cloud-Native Backend System*
@@ -97,8 +77,6 @@
 - 💳 Razorpay & Stripe payment integration
 - 📂 Automated SharePoint folder generation
 
----
-
 ### 🔵 HR Suit Project — *Secure HR Management Platform*
 - ⚡ FastAPI backend with MongoDB
 - ☁️ AWS Lambda, S3, EventBridge, CloudWatch, SES
@@ -106,21 +84,15 @@
 - 🔐 AWS Cognito pre-auth triggers
 - 🔄 Secure API integrations with role-based access
 
----
-
 ### 🧠 Neuroplay — *AI Brain Computer Interface*
 - 🎮 EEG-based mind-controlled interaction
 - 📈 **94.96% accuracy** using SVM & Deep Learning
 - 🗣️ Thought-to-speech conversion
 
----
-
 ### 🤖 AskDu — *AI Career Guidance Chatbot*
 - 💬 Real-time career counselling chatbot
 - 🧠 Personalized recommendations using NLP
 - ⚡ FastAPI backend with MongoDB
-
----
 
 ## 📚 Certifications & Learning
 
@@ -129,8 +101,6 @@
 - 🤖 Artificial Intelligence Foundation
 - ☕ Programming in Java (NPTEL)
 - 🧠 Infosys Springboard – Python & AI Courses
-
----
 
 ## 📊 GitHub Analytics
 
@@ -146,8 +116,6 @@
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -156,8 +124,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:hariranjani774@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
