@@ -137,7 +137,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cksivaranjani&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Cksivaranjani&theme=tokyonight" height="165"/>
 
 </div>
 
