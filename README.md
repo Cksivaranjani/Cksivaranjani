@@ -1,6 +1,11 @@
 <div align="center">
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi+there!+I'm+Sivaranjani+C+K" />
+
+</div>
+
 ### 🚀 Backend • Frontend • Cloud • Security • AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Cloud+Enthusiast;FastAPI+%7C+AWS+%7C+OAuth+2.0;Secure+and+Scalable+Systems;AI+%7C+Cyber+Security+Learner" />
