@@ -1,7 +1,6 @@
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:9333EA&height=180&section=header&animation=fadeIn" />
-
 # 👋 Hi there! I'm **Sivaranjani C K**
 ### 🚀 Backend • Frontend • Cloud • Security • AI Enthusiast
 
